@@ -1,3 +1,3 @@
 # yaweis.github.io
 
-Personal website repositor
+Personal website repository
